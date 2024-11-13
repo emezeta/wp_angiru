@@ -1,0 +1,10 @@
+{
+  "name": "block-angiru",
+  "title": "Block Angiru",
+  "description": "Un block para el web de Angiru",
+  "category": "widgets",
+  "icon": "welcome-view-site",
+  "attributes": {
+    // Define any attributes your block might need
+  }
+}
